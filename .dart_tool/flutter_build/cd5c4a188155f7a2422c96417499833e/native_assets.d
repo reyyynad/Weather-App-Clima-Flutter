@@ -1,0 +1,1 @@
+ /Users/ReNaD/Desktop/Flutter\ Projects/clima_flutter/.dart_tool/flutter_build/cd5c4a188155f7a2422c96417499833e/native_assets.yaml: 
